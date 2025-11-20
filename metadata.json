@@ -1,0 +1,5 @@
+{
+  "name": "InvoicelyticsAI",
+  "description": "Intelligent document processing platform that extracts invoice data using Gemini 2.5 Flash and provides managerial KPI dashboards.",
+  "requestFramePermissions": []
+}
